@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="assets/banner.svg" width="100%" alt="🏠 Distressed Property Detection — Real Estate Investor OS — banner"/>
+</div>
+
+
 # 🏠 Distressed Property Detection — Real Estate Investor OS
 
 ![Status: Delivered](https://img.shields.io/badge/Status-Delivered-FFBF00?style=for-the-badge)
