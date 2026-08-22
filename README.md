@@ -1,4 +1,4 @@
-# ðŸ  Real Estate Investors: Stop Losing Deals to Faster Competitors
+# Real Estate Investors: Stop Losing Deals to Faster Competitors
 
 ![Status](https://img.shields.io/badge/status-Delivered_to_Client-success) 
 ![License](https://img.shields.io/badge/license-Portfolio_Use_Only-red) 
@@ -6,11 +6,11 @@
 ![AI](https://img.shields.io/badge/AI-Powered-purple)
 ![n8n Automation](https://img.shields.io/badge/n8n-Automation_EA4B71)
 
-**Client:** US Real Estate Investor Â· **Industry:** Real Estate Â· **Delivered by:** K MD SAYAD RAHMAN (Sayad.dev | AI Automation)
+**Client:** US Real Estate Investor | **Industry:** Real Estate | **Delivered by:** K MD SAYAD RAHMAN (Sayad.dev | AI Automation)
 
 ---
 
-## ðŸŽ¯ The Problem (In Your Words)
+## The Problem (In Your Words)
 
 **"I'm losing distressed property deals because by the time I find out about a listing, someone faster has already made contact."**
 
@@ -25,7 +25,7 @@ Sound familiar? Here's what's happening:
 
 ---
 
-## âš¡ The Result (What You'll Achieve)
+## The Result (What You'll Achieve)
 
 | Metric | Before | After | Improvement |
 |--------|--------|-------|-------------|
@@ -36,7 +36,7 @@ Sound familiar? Here's what's happening:
 
 ---
 
-## ðŸ”„ Before vs After: The Workflow Difference
+## Before vs After: The Workflow Difference
 
 ### BEFORE (Manual Process - Slow & Painful)
 ```
@@ -74,16 +74,16 @@ Sound familiar? Here's what's happening:
 
 ---
 
-## ðŸ—ï¸ How It Works (Conceptual Overview)
+## How It Works (Conceptual Overview)
 
 ```mermaid
 flowchart LR
-    A["ðŸ  Listing Feed<br/>Real-time intake"] 
-    B["ðŸ¤– Vision AI Damage Scan<br/>Photo analysis"]
-    C["ðŸ“ NLP Description Analysis<br/>Language patterns"]
-    D["ðŸ“‹ Public Records Check<br/>Tax & foreclosure data"]
-    E["ðŸ“Š Distress Scoring Engine<br/>0-100 score calculation"]
-    F["ðŸ”” Instant Alert System<br/><5 min notification"]
+    A["Listing Feed<br/>Real-time intake"] 
+    B["Vision AI Damage Scan<br/>Photo analysis"]
+    C["NLP Description Analysis<br/>Language patterns"]
+    D["Public Records Check<br/>Tax & foreclosure data"]
+    E["Distress Scoring Engine<br/>0-100 score calculation"]
+    F["Instant Alert System<br/><5 min notification"]
     
     A --> B
     A --> C
@@ -107,55 +107,55 @@ flowchart LR
 
 ---
 
-## âœ¨ Key Features (What You Get)
+## Key Features (What You Get)
 
 | Feature | Benefit | Impact |
 |---------|---------|--------|
-| **ðŸ¤– Vision AI Analysis** | Automatic property damage detection | Save hours of manual inspection |
-| **ðŸ“ NLP Language Processing** | Identify urgent seller language | Spot motivated sellers instantly |
-| **ðŸ“‹ Public Records Integration** | Automatic tax/foreclosure checks | Complete picture in seconds |
-| **ðŸ“Š 0-100 Distress Scoring** | Single number decision metric | Clear, data-driven decisions |
-| **ðŸ”” <5 Minute Alerts** | Beat competitors to every deal | First mover advantage |
-| **ðŸŽ¯ Custom Thresholds** | Set your minimum score preferences | Focus on deals that matter |
-| **ðŸ“± Multi-Channel Alerts** | Email, SMS, Telegram notifications | Never miss a qualified deal |
+| **Vision AI Analysis** | Automatic property damage detection | Save hours of manual inspection |
+| **NLP Language Processing** | Identify urgent seller language | Spot motivated sellers instantly |
+| **Public Records Integration** | Automatic tax/foreclosure checks | Complete picture in seconds |
+| **0-100 Distress Scoring** | Single number decision metric | Clear, data-driven decisions |
+| **<5 Minute Alerts** | Beat competitors to every deal | First mover advantage |
+| **Custom Thresholds** | Set your minimum score preferences | Focus on deals that matter |
+| **Multi-Channel Alerts** | Email, SMS, Telegram notifications | Never miss a qualified deal |
 
 ---
 
-## ðŸŽ¬ See It In Action
+## See It In Action
 
 ### Live Dashboard Preview (Demo with Dummy Data)
 
 ```
-â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-â”‚  ðŸ  REAL ESTATE AI AUTOMATION SYSTEM - LIVE DASHBOARD       â”‚
-â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤
-â”‚                                                              â”‚
-â”‚  ðŸ”´ NEW ALERT: 123 Oak Street, Austin TX                    â”‚
-â”‚  â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”  â”‚
-â”‚  â”‚ Score: 87/100  â”‚  Time: 4 min ago  â”‚  Action: Call Now â”‚  â”‚
-â”‚  â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜  â”‚
-â”‚                                                              â”‚
-â”‚  ðŸ“Š TODAY'S PERFORMANCE:                                     â”‚
-â”‚  â€¢ Listings Scanned: 47                                     â”‚
-â”‚  â€¢ Qualified Alerts: 3                                      â”‚
-â”‚  â€¢ Average Response Time: 4.2 minutes                      â”‚
-â”‚                                                              â”‚
-â”‚  ðŸ—ï¸ PROPERTY ANALYSIS EXAMPLE:                              â”‚
-â”‚  â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”  â”‚
-â”‚  â”‚ Vision AI: Roof damage detected (confidence: 92%)       â”‚  â”‚
-â”‚  â”‚ NLP: "motivated seller" pattern found                   â”‚  â”‚
-â”‚  â”‚ Records: $2,400 unpaid taxes (2023)                     â”‚  â”‚
-â”‚  â”‚ Final Score: 87/100 - HIGH DISTRESS                     â”‚  â”‚
-â”‚  â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜  â”‚
-â”‚                                                              â”‚
-â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
++-------------------------------------------------------------+
+|  REAL ESTATE AI AUTOMATION SYSTEM - LIVE DASHBOARD       |
++-------------------------------------------------------------+
+|                                                             |
+|  NEW ALERT: 123 Oak Street, Austin TX                     |
+|  +-------------------------------------------------------+ |
+|  | Score: 87/100  |  Time: 4 min ago  |  Action: Call Now | |
+|  +-------------------------------------------------------+ |
+|                                                             |
+|  TODAY'S PERFORMANCE:                                     |
+|  â€¢ Listings Scanned: 47                                    |
+|  â€¢ Qualified Alerts: 3                                     |
+|  â€¢ Average Response Time: 4.2 minutes                     |
+|                                                             |
+|  PROPERTY ANALYSIS EXAMPLE:                                |
+|  +-------------------------------------------------------+ |
+|  | Vision AI: Roof damage detected (confidence: 92%)     | |
+|  | NLP: "motivated seller" pattern found                  | |
+|  | Records: $2,400 unpaid taxes (2023)                    | |
+|  | Final Score: 87/100 - HIGH DISTRESS                    | |
+|  +-------------------------------------------------------+ |
+|                                                             |
++-------------------------------------------------------------+
 ```
 
 *(Note: Real client data removed for confidentiality. Demo shows system capabilities.)*
 
 ---
 
-## ðŸ› ï¸ Automation Technology Stack
+## Automation Technology Stack
 
 **Core Engine:** n8n Workflow Automation  
 **AI Integration:** Vision AI, Natural Language Processing  
@@ -165,9 +165,9 @@ flowchart LR
 
 ---
 
-## ðŸ§  Engineering Philosophy
+## Engineering Philosophy
 
-**"Automations Fail Silently â€” I Engineer Systems That Don't"**
+**"Automations Fail Silently - I Engineer Systems That Don't"**
 
 This system includes:
 - **Explicit Error Handling:** No silent failures, every error triggers an alarm
@@ -178,7 +178,7 @@ This system includes:
 
 ---
 
-## ðŸš€ What's Next (Roadmap)
+## What's Next (Roadmap)
 
 - [ ] **v2.0:** Multi-market expansion (Miami, Austin, Denver)
 - [ ] **Mobile Push Notifications:** Instant alerts on your phone
@@ -188,7 +188,7 @@ This system includes:
 
 ---
 
-## ðŸ”’ What I'm Not Publishing
+## What I'm Not Publishing
 
 For client confidentiality and IP protection, I've deliberately omitted:
 
@@ -203,28 +203,28 @@ For client confidentiality and IP protection, I've deliberately omitted:
 
 ---
 
-## ðŸ“ž Hire Me For Similar Projects
+## Hire Me For Similar Projects
 
-**K MD SAYAD RAHMAN** â€” Sayad.dev | AI Automation
+**K MD SAYAD RAHMAN** - Sayad.dev | AI Automation
 
-**ðŸ“§ Work Email:** khandokarsayad@gmail.com  
-**ðŸ“§ Personal Email:** mdsadrhoman123@gmail.com  
-**ðŸ’¼ LinkedIn:** https://linkedin.com/in/khandokarsabbir  
-**ðŸ™ GitHub:** https://github.com/mdsadrhoman123-stack
+**Work Email:** khandokarsayad@gmail.com  
+**Personal Email:** mdsadrhoman123@gmail.com  
+**LinkedIn:** https://linkedin.com/in/khandokarsabbir  
+**GitHub:** https://github.com/mdsadrhoman123-stack
 
-**ðŸš€ Open to Work â€” Accepting New Automation Projects**
+**Open to Work - Accepting New Automation Projects**
 
-**ðŸ“© Email me with your automation challenge â€” I'll tell you exactly 
+**Email me with your automation challenge - I'll tell you exactly 
 which part I'd automate first, and which part I wouldn't.**
 
 ---
 
-## ðŸ”„ See My Other Automation Systems
+## See My Other Automation Systems
 
-- [ðŸ¥ Healthcare Document Automation](../medical-document-automation) - Medical records processing
-- [â˜€ï¸ Solar CRM Automation](../irish-solar-crm) - Field service business systems  
-- [ðŸ“Š E-commerce Review Automation](../review-outreach-pipeline) - Customer review generation
-- [ðŸ¢ Enterprise Intake Automation](../flowdesk) - Client request processing systems
+- [Healthcare Document Automation](../medical-document-automation) - Medical records processing
+- [Solar CRM Automation](../irish-solar-crm) - Field service business systems  
+- [E-commerce Review Automation](../review-outreach-pipeline) - Customer review generation
+- [Enterprise Intake Automation](../flowdesk) - Client request processing systems
 
 ---
 
@@ -232,10 +232,10 @@ which part I'd automate first, and which part I wouldn't.**
 
 **Built by K MD SAYAD RAHMAN (Sayad.dev | AI Automation)**
 
-**ðŸ“§ Contact:** khandokarsayad@gmail.com | mdsadrhoman123@gmail.com
+**Contact:** khandokarsayad@gmail.com | mdsadrhoman123@gmail.com
 
 Copyright (c) 2024 K MD SAYAD RAHMAN. All rights reserved. Portfolio use only.
 
-*[n8n](https://n8n.io) Â· [Vision AI](https://openai.com) Â· [Real Estate Automation](https://linkedin.com/in/khandokarsabbir)*
+*[n8n](https://n8n.io) | [Vision AI](https://openai.com) | [Real Estate Automation](https://linkedin.com/in/khandokarsabbir)*
 
 </div>
