@@ -129,33 +129,33 @@ flowchart LR
 ### BEFORE (Manual Process - Slow & Painful)
 ```
 [Listing Appears Online] 
-    â†“ (wait 2-4 hours)
+    ↓ (wait 2-4 hours)
 [Manual Check: "Is this distressed?"] 
-    â†“ (drive 30-60 mins)
+    ↓ (drive 30-60 mins)
 [Visual Inspection: Property Condition] 
-    â†“ (call agent, wait)
+    ↓ (call agent, wait)
 [Manual Research: Tax Records, Foreclosure Status] 
-    â†“ (manual analysis)
+    ↓ (manual analysis)
 [Guess: "Should I pursue this?"] 
-    â†“
-= **3-5 days to decision** âŒ
+    ↓
+= **3-5 days to decision** ❌
 ```
 
 ### AFTER (Automated - Fast & Precise)
 ```
 [Listing Appears Online] 
-    â†“ (automated trigger, 30 seconds)
+    ↓ (automated trigger, 30 seconds)
 [Vision AI: Scans Photos for Damage] 
-    â†“ (instant analysis)
+    ↓ (instant analysis)
 [NLP: Analyzes Description for Urgent Language] 
-    â†“ (parallel processing)
+    ↓ (parallel processing)
 [Public Records: Checks Tax/Foreclosure Status] 
-    â†“ (data integration)
+    ↓ (data integration)
 [AI: Calculates 0-100 Distress Score] 
-    â†“ (intelligent scoring)
+    ↓ (intelligent scoring)
 [Alert: "Score 87/100 - Contact Now!"] 
-    â†“
-= **5 minutes to qualified decision** âœ…
+    ↓
+= **5 minutes to qualified decision** ✅
 ```
 
 **The difference:** You're calling while competitors are still scrolling.
@@ -165,7 +165,7 @@ flowchart LR
 ## Impact Statement
 
 **Business Value Delivered:**
-- **24x faster** deal identification (2-4 hours â†’ 5 minutes)
+- **24x faster** deal identification (2-4 hours → 5 minutes)
 - **Zero deals missed** due to slow response
 - **Data-driven decisions** vs manual guessing
 - **Scalable solution** that can handle increased volume
@@ -261,14 +261,14 @@ A: This is a production system that has been delivered to a real client. Contact
 
 **K MD SAYAD RAHMAN** - Sayad.dev | AI Automation
 
-**ðŸ“§ Work Email:** khandokarsayad@gmail.com  
-**ðŸ“§ Personal Email:** mdsadrhoman123@gmail.com  
-**ðŸ’¼ LinkedIn:** https://linkedin.com/in/khandokarsabbir  
-**ðŸ™ GitHub:** https://github.com/mdsadrhoman123-stack
+**📧 Work Email:** khandokarsayad@gmail.com  
+**📧 Personal Email:** mdsadrhoman123@gmail.com  
+**💼 LinkedIn:** https://linkedin.com/in/khandokarsabbir  
+**🐙 GitHub:** https://github.com/mdsadrhoman123-stack
 
-**ðŸš€ Open to Work - Accepting New Automation Projects**
+**🚀 Open to Work - Accepting New Automation Projects**
 
-**ðŸ“© Email me with your automation challenge - I'll tell you exactly 
+**📩 Email me with your automation challenge - I'll tell you exactly 
 which part I'd automate first, and which part I wouldn't.**
 
 ---
@@ -286,7 +286,7 @@ which part I'd automate first, and which part I wouldn't.**
 
 **Built by K MD SAYAD RAHMAN (Sayad.dev | AI Automation)**
 
-**ðŸ“§ Contact:** khandokarsayad@gmail.com | mdsadrhoman123@gmail.com
+**📧 Contact:** khandokarsayad@gmail.com | mdsadrhoman123@gmail.com
 
 Copyright (c) 2024 K MD SAYAD RAHMAN. All rights reserved. Portfolio use only.
 
