@@ -1,8 +1,29 @@
-Portfolio Documentation License
+PORTFOLIO USE LICENSE
 
-Copyright (c) Sayad
+Copyright (c) 2024 K MD SAYAD RAHMAN. All rights reserved.
 
-This repository is shared for portfolio and demonstration purposes.
-The documentation and sanitized workflow skeleton may be viewed and
-referenced with attribution. The underlying client system, business
-logic, and any client data are proprietary and not licensed for reuse.
+This repository is provided for portfolio demonstration purposes only.
+
+PERMISSIONS GRANTED:
+- You may view, read, and study this repository for personal evaluation
+- You may reference the architecture and design patterns for educational purposes
+- You may share links to this repository for portfolio evaluation
+
+RESTRICTIONS:
+- You may NOT copy, modify, or redistribute any workflow configurations
+- You may NOT use any business logic, algorithms, or scoring methods
+- You may NOT use this for commercial purposes without explicit permission
+- You may NOT reverse engineer the implementation or extract proprietary information
+- You may NOT claim this work as your own or remove attribution
+
+DISCLAIMER:
+This repository demonstrates architectural patterns and technical capabilities delivered to a client. All production implementations, business rules, and proprietary configurations have been removed or replaced with placeholders.
+
+NO WARRANTY:
+This repository is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement.
+
+CONTACT:
+For licensing inquiries, production deployment, or custom automation solutions:
+Email: khandokarsayad@gmail.com
+LinkedIn: https://linkedin.com/in/khandokarsabbir
+GitHub: https://github.com/mdsadrhoman123-stack
