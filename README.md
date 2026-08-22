@@ -9,6 +9,12 @@
 
 **Client:** US Real Estate Investor | **Industry:** Real Estate | **Delivered by:** K MD SAYAD RAHMAN (Sayad.dev | AI Automation)
 
+<!-- Professional Banner -->
+<img src="assets/banners/real-estate-banner.svg" alt="Real Estate AI Automation" width="1200" style="border-radius: 10px; margin: 20px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+
+<!-- Interactive Architecture Diagram -->
+[ðŸ”— View Interactive Architecture Diagram](assets/diagrams/real-estate-interactive.html)
+
 ---
 
 ## Contents
@@ -82,6 +88,8 @@ flowchart LR
     style F fill:#2ecc71,color:#fff
 ```
 
+**ðŸŽ¯ Interactive Architecture:** Click the diagram link above to explore the interactive architecture visualization with detailed component explanations.
+
 **Data Flow:**
 1. **Ingest:** Listing APIs provide real-time property data
 2. **Process:** Parallel AI analysis (vision + NLP) + records check
@@ -129,33 +137,33 @@ flowchart LR
 ### BEFORE (Manual Process - Slow & Painful)
 ```
 [Listing Appears Online] 
-    ↓ (wait 2-4 hours)
+    â†“ (wait 2-4 hours)
 [Manual Check: "Is this distressed?"] 
-    ↓ (drive 30-60 mins)
+    â†“ (drive 30-60 mins)
 [Visual Inspection: Property Condition] 
-    ↓ (call agent, wait)
+    â†“ (call agent, wait)
 [Manual Research: Tax Records, Foreclosure Status] 
-    ↓ (manual analysis)
+    â†“ (manual analysis)
 [Guess: "Should I pursue this?"] 
-    ↓
-= **3-5 days to decision** ❌
+    â†“
+= **3-5 days to decision** âŒ
 ```
 
 ### AFTER (Automated - Fast & Precise)
 ```
 [Listing Appears Online] 
-    ↓ (automated trigger, 30 seconds)
+    â†“ (automated trigger, 30 seconds)
 [Vision AI: Scans Photos for Damage] 
-    ↓ (instant analysis)
+    â†“ (instant analysis)
 [NLP: Analyzes Description for Urgent Language] 
-    ↓ (parallel processing)
+    â†“ (parallel processing)
 [Public Records: Checks Tax/Foreclosure Status] 
-    ↓ (data integration)
+    â†“ (data integration)
 [AI: Calculates 0-100 Distress Score] 
-    ↓ (intelligent scoring)
+    â†“ (intelligent scoring)
 [Alert: "Score 87/100 - Contact Now!"] 
-    ↓
-= **5 minutes to qualified decision** ✅
+    â†“
+= **5 minutes to qualified decision** âœ…
 ```
 
 **The difference:** You're calling while competitors are still scrolling.
@@ -165,7 +173,7 @@ flowchart LR
 ## Impact Statement
 
 **Business Value Delivered:**
-- **24x faster** deal identification (2-4 hours → 5 minutes)
+- **24x faster** deal identification (2-4 hours â†’ 5 minutes)
 - **Zero deals missed** due to slow response
 - **Data-driven decisions** vs manual guessing
 - **Scalable solution** that can handle increased volume
@@ -261,14 +269,14 @@ A: This is a production system that has been delivered to a real client. Contact
 
 **K MD SAYAD RAHMAN** - Sayad.dev | AI Automation
 
-**📧 Work Email:** khandokarsayad@gmail.com  
-**📧 Personal Email:** mdsadrhoman123@gmail.com  
-**💼 LinkedIn:** https://linkedin.com/in/khandokarsabbir  
-**🐙 GitHub:** https://github.com/mdsadrhoman123-stack
+**ðŸ“§ Work Email:** khandokarsayad@gmail.com  
+**ðŸ“§ Personal Email:** mdsadrhoman123@gmail.com  
+**ðŸ’¼ LinkedIn:** https://linkedin.com/in/khandokarsabbir  
+**ðŸ™ GitHub:** https://github.com/mdsadrhoman123-stack
 
-**🚀 Open to Work - Accepting New Automation Projects**
+**ðŸš€ Open to Work - Accepting New Automation Projects**
 
-**📩 Email me with your automation challenge - I'll tell you exactly 
+**ðŸ“© Email me with your automation challenge - I'll tell you exactly 
 which part I'd automate first, and which part I wouldn't.**
 
 ---
@@ -286,7 +294,7 @@ which part I'd automate first, and which part I wouldn't.**
 
 **Built by K MD SAYAD RAHMAN (Sayad.dev | AI Automation)**
 
-**📧 Contact:** khandokarsayad@gmail.com | mdsadrhoman123@gmail.com
+**ðŸ“§ Contact:** khandokarsayad@gmail.com | mdsadrhoman123@gmail.com
 
 Copyright (c) 2024 K MD SAYAD RAHMAN. All rights reserved. Portfolio use only.
 
