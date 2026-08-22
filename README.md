@@ -15,6 +15,12 @@
 <!-- Interactive Architecture Diagram -->
 [View Interactive Architecture Diagram](https://raw.githubusercontent.com/mdsadrhoman123-stack/distressed-property-detection/main/assets/diagrams/real-estate-interactive.html)
 
+<!-- Portfolio Navigation -->
+<script src="https://raw.githubusercontent.com/mdsadrhoman123-stack/distressed-property-detection/main/assets/navigation/navigation.js"></script>
+<script>
+autoInjectNavigation('distressed-property-detection');
+</script>
+
 ---
 
 ## Contents
