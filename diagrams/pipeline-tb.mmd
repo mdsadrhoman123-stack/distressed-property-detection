@@ -1,0 +1,18 @@
+flowchart TB
+    in(["A listing goes live"])
+    read["Read for signs of a distressed sale"]
+    score{"Scored 0–100"}
+    alert["Qualifies → investor alerted in minutes"]
+    part["A signal missing → scored partial, and says so"]
+
+    in --> read
+    read --> score
+    score --> alert
+    read -.-> part
+    part --> score
+
+    classDef default fill:#F8F7F3,stroke:#12151B,stroke-width:1px,color:#12151B;
+    classDef ok fill:#2F6B52,stroke:#12151B,stroke-width:1px,color:#F5F4EF;
+    classDef bad fill:#FEE2E2,stroke:#DC2626,stroke-width:1.5px,color:#7F1D1D;
+    class alert ok;
+    class part bad;
