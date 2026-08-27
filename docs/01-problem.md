@@ -1,6 +1,6 @@
 # 01 · The problem
 
-**Distressed Property Detection** — US real estate investor
+**Distressed Property Detection** — the problem, as US real-estate investors describe it
 
 ---
 
@@ -20,4 +20,4 @@ Listings are pulled as they appear. Photos are sent to an AI provider for a dama
 
 ---
 
-[← README](../README.md) · [02 · The client journey →](02-journey.md)
+[← README](../README.md) · [02 · The journey →](02-journey.md)

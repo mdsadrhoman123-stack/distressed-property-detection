@@ -29,6 +29,12 @@ header.hero{background:var(--ink);color:#F5F4EF;padding:76px 0 68px;
 header.hero h1{font-size:clamp(38px,6vw,64px);line-height:1.03;margin:0 0 20px}
 header.hero p.promise{font-size:19px;line-height:1.55;color:#C6CFDB;
   max-width:60ch;margin:0 0 30px}
+/* The demo is a single file — someone may well open it with no README in
+   sight, so the provenance has to travel with it. */
+header.hero p.prov{font-size:14px;line-height:1.62;color:#8A94A3;
+  max-width:66ch;margin:24px 0 0;border-left:2px solid #2E3542;
+  padding-left:14px}
+header.hero p.prov b{color:#C6CFDB}
 .meta{display:flex;flex-wrap:wrap;gap:10px}
 .pill{font-size:12px;letter-spacing:.4px;padding:6px 12px;border-radius:999px;
   border:1px solid #2E3542;color:#A9B3C1}
@@ -135,10 +141,15 @@ a{color:var(--green)}
     <h1>Distressed Property Detection</h1>
     <p class="promise">A qualifying listing is scored and alerted within minutes of going live, instead of found hours later after a competitor has already called.</p>
     <div class="meta">
-      <span class="pill ok">delivered to client</span>
+      <span class="pill ok">running on my own n8n</span>
       <span class="pill">Real estate</span>
-      <span class="pill">Built for US real estate investor</span>
+      <span class="pill">For US real-estate investors</span>
+      <span class="pill">Ready to deploy</span>
     </div>
+    <p class="prov">Built from a real brief — businesses in this sector post
+    this problem publicly, in their own words, and I built a system for the
+    problem exactly as stated. It is production-grade and runs on my own infrastructure.
+    <b>It has not been sold or deployed into a customer's business: it is available, not delivered.</b></p>
   </div>
 </header>
 
@@ -219,7 +230,7 @@ a{color:var(--green)}
 </footer>
 
 <script>
-var DATA = {"nodes": [{"id": "in", "label": "A listing goes live", "kind": "trigger"}, {"id": "read", "label": "Read for signs of a distressed sale", "kind": "step"}, {"id": "score", "label": "Scored 0–100", "kind": "logic"}, {"id": "alert", "label": "Qualifies → investor alerted in minutes", "kind": "success"}, {"id": "part", "label": "A signal missing → scored partial, and says so", "kind": "fail"}], "edges": [{"a": "in", "b": "read"}, {"a": "read", "b": "score"}, {"a": "score", "b": "alert"}, {"a": "read", "b": "part"}, {"a": "part", "b": "score"}], "fails": [{"what": "Photo read fails or returns nothing", "detect": "Provider error or empty result", "does": "Score is built from the remaining signals and marked partial", "who": "Alert says the score is partial"}, {"what": "Public records lookup unavailable", "detect": "API error", "does": "Retry, then score without it rather than dropping the listing", "who": "Alert notes the missing signal"}, {"what": "Listing feed goes quiet", "detect": "No results across an expected window", "does": "Treated as a fault, not as “no good listings”", "who": "Alert — silence is suspicious"}, {"what": "Same listing appears twice", "detect": "Record check", "does": "Second occurrence does not re-alert", "who": "Nobody — by design"}, {"what": "Score sits just under the threshold", "detect": "Scoring logic", "does": "Logged rather than discarded, so the threshold can be reviewed", "who": "Visible in the log, not an alert"}], "journey": [{"h": "A listing goes live", "b": "The feed is pulled continuously, not checked when someone has a moment."}, {"h": "Three questions at once", "b": "What do the photos show, what does the wording suggest, and what do the public records say."}, {"h": "One number comes out", "b": "The three signals combine into a single 0–100 score, so there is one thing to act on rather than three to weigh."}, {"h": "The phone rings fast", "b": "A qualifying score alerts within minutes. In this market that is the entire product."}, {"h": "Nothing is thrown away", "b": "Listings that do not qualify are still logged, so the threshold can be tuned against real history."}], "name": "Distressed Property Detection", "eyebrow": "Listing signals → distress score", "promise": "A qualifying listing is scored and alerted within minutes of going live, instead of found hours later after a competitor has already called.", "client": "US real estate investor", "status": "delivered to client", "metrics": [["Signals combined", "3"], ["Score range", "0–100"], ["Alert target", "under 5 minutes"]]};
+var DATA = {"nodes": [{"id": "in", "label": "A listing goes live", "kind": "trigger"}, {"id": "read", "label": "Read for signs of a distressed sale", "kind": "step"}, {"id": "score", "label": "Scored 0–100", "kind": "logic"}, {"id": "alert", "label": "Qualifies → investor alerted in minutes", "kind": "success"}, {"id": "part", "label": "A signal missing → scored partial, and says so", "kind": "fail"}], "edges": [{"a": "in", "b": "read"}, {"a": "read", "b": "score"}, {"a": "score", "b": "alert"}, {"a": "read", "b": "part"}, {"a": "part", "b": "score"}], "fails": [{"what": "Photo read fails or returns nothing", "detect": "Provider error or empty result", "does": "Score is built from the remaining signals and marked partial", "who": "Alert says the score is partial"}, {"what": "Public records lookup unavailable", "detect": "API error", "does": "Retry, then score without it rather than dropping the listing", "who": "Alert notes the missing signal"}, {"what": "Listing feed goes quiet", "detect": "No results across an expected window", "does": "Treated as a fault, not as “no good listings”", "who": "Alert — silence is suspicious"}, {"what": "Same listing appears twice", "detect": "Record check", "does": "Second occurrence does not re-alert", "who": "Nobody — by design"}, {"what": "Score sits just under the threshold", "detect": "Scoring logic", "does": "Logged rather than discarded, so the threshold can be reviewed", "who": "Visible in the log, not an alert"}], "journey": [{"h": "A listing goes live", "b": "The feed is pulled continuously, not checked when someone has a moment."}, {"h": "Three questions at once", "b": "What do the photos show, what does the wording suggest, and what do the public records say."}, {"h": "One number comes out", "b": "The three signals combine into a single 0–100 score, so there is one thing to act on rather than three to weigh."}, {"h": "The phone rings fast", "b": "A qualifying score alerts within minutes. In this market that is the entire product."}, {"h": "Nothing is thrown away", "b": "Listings that do not qualify are still logged, so the threshold can be tuned against real history."}], "name": "Distressed Property Detection", "eyebrow": "Listing signals → distress score", "promise": "A qualifying listing is scored and alerted within minutes of going live, instead of found hours later after a competitor has already called.", "audience": "US real-estate investors", "status": "running on my own n8n", "metrics": [["Signals combined", "3"], ["Score range", "0–100"], ["Alert target", "under 5 minutes"]]};
 
 var flow = document.getElementById('flow');
 DATA.nodes.forEach(function(n, i){
